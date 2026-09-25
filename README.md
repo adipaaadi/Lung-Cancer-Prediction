@@ -1,4 +1,4 @@
-# Lung Cancer Prediction — ML Classification Study
+# Lung Cancer Prediction - ML Classification Study
 
 Comparison of six classifiers on a 309-patient lung cancer symptom survey dataset, with a focus on class imbalance and metric selection.
 
